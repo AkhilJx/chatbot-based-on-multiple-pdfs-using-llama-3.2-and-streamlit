@@ -14,6 +14,8 @@ The output of the chatbot is attached as a video in the git.
 # pros:
 1. It is completely free of cost
 2. Unlimited prompts
-3. unlimited pdf uploads.
+3. Unlimited PDF uploads.
 
-   note: As the no of pdf uploads increase the time for processing and time for giving the response also increases
+# cons
+1. As the no of PDF uploads increases, the processing time and response time also increase.
+2. since it is open source, the accuracy is slightly less in some cases. ie may not give the exact response at times.
