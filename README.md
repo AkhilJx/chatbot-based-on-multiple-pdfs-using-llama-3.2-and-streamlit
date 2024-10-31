@@ -9,3 +9,11 @@
 
 ![image](https://github.com/user-attachments/assets/55c210f2-9359-481b-8776-2670170750c8)
 
+The output of the chatbot is attached as a video in the git.
+
+# pros:
+1. It is completely free of cost
+2. Unlimited prompts
+3. unlimited pdf uploads.
+
+   note: As the no of pdf uploads increase the time for processing and time for giving the response also increases
